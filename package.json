@@ -1,0 +1,14 @@
+{
+  "name": "learning-sass",
+  "version": "1.0.0",
+  "description": "Sass lessongs",
+  "main": "index.js",
+  "scripts": {
+    "sass": "cd css && sass --watch main.scss output.css"
+  },
+  "author": "julia",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.32.7"
+  }
+}
