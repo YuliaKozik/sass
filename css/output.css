@@ -83,7 +83,7 @@ a {
 }
 
 .box {
-  background-color: #ddd;
+  background-color: #green;
   width: 150px;
   /*-- we could use " (300px/2); (70px+80px); (75px * 2)--*/
   height: 150px;
